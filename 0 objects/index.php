@@ -1,7 +1,6 @@
 <?php 
 
 class Person{
-
     public $name;
 
     function __construct($name = "Carl")
